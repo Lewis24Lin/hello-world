@@ -1,5 +1,5 @@
 # hello-world
-first repository
+this is first repository
 
 # H1
 ## H2
