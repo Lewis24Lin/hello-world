@@ -5,8 +5,11 @@ this is first repository
 ## H2
 ### H3
 
-**bold text**
-text
+**bold text** 
+normal text line1
+normal text line2
+
+normal text line3
 
 1. First item
 2. Second item
