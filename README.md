@@ -24,5 +24,5 @@ int main(void){
 }
 `
 
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)\
 [git instruction](https://github.com/Lewis24Lin/hello-world.git)
