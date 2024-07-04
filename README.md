@@ -9,7 +9,7 @@ this is first repository
 
 **bold text**\
 *Italic text*\
-***bold and italic***
+***bold and italic***\
 ~~Strikethrough~~\
 normal text line1\
 normal text line2
