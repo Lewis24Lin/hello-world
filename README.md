@@ -33,6 +33,12 @@ normal text line2
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+:memo: memo\
+:bulb: bulb\
+:warning: warning\
+✔️ heavy_check_mark\
+:information_source: information_source
+
 1. First item
 2. Second item
 
