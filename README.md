@@ -4,6 +4,8 @@ this is first repository
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)\
 [Markdown Syntax](https://www.dotcms.com/docs/latest/markdown-syntax)
 
+![my picture]()
+
 # H1
 ## H2
 ### H3
@@ -64,12 +66,14 @@ Task List
 
 ---
 
+one line  
 `#include <stdio.h>
 int main(void){
   return 0;
 }
 `
 
+multiple lines
 ```
 #include <stdio.h>
 int main(void){
