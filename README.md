@@ -19,6 +19,8 @@ next line
 
 > blockquote\
 > 123
+>> 456
+>>> 789
 
 > [!NOTE]
 > Information the user should notice even if skimming.
