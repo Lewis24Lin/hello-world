@@ -13,7 +13,9 @@ this is first repository
 ***bold and italic***\
 ~~Strikethrough~~\
 normal text line1\
-normal text line2
+normal text line2\
+two space in the end of line can change line  
+next line
 
 > blockquote\
 > 123
