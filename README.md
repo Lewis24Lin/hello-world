@@ -44,8 +44,9 @@ next line
 1. First item
 2. Second item
 
-* Item 1-1
-* Item 1-2
+* Item 1
+  * Item 1-1
+  * Item 1-2
 + Item 2-1
 + Item 2-2
 - Item 3-1
@@ -68,6 +69,14 @@ int main(void){
 `
 
 ```
+#include <stdio.h>
+int main(void){
+  return 0;
+}
+```
+
+Add language after ``` for color
+```c
 #include <stdio.h>
 int main(void){
   return 0;
