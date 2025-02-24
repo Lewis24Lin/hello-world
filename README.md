@@ -46,7 +46,7 @@ next line
 :information_source: information_source
 
 1. First item
-2. Second item
+3. Second item
 
 * Item 1
   * Item 1-1
@@ -65,6 +65,8 @@ Task List
 - [ ] task 3-2
 
 ---
+
+## code
 
 one line  
 `#include <stdio.h>
