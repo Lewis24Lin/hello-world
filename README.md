@@ -46,15 +46,17 @@ next line
 :information_source: information_source
 
 1. First item
-3. Second item
+2. Second item
 
 * Item 1
   * Item 1-1
   * Item 1-2
-+ Item 2-1
-+ Item 2-2
-- Item 3-1
-- Item 3-2
++ Item 2
+  + Item 2-1
+  + Item 2-2
+- Item 3
+  - Item 3-1
+  - Item 3-2
 
 Task List
 * [x] task 1-1
