@@ -4,7 +4,7 @@ this is first repository
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)\
 [Markdown Syntax](https://www.dotcms.com/docs/latest/markdown-syntax)
 
-![my picture]()
+![my title picture](https://github.com/Lewis24Lin/hello-world/blob/main/title_picture1.JPG)
 
 # H1
 ## H2
