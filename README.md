@@ -19,6 +19,11 @@ normal text line2\
 two space in the end of line can change line  
 next line
 
+A
+<sup>上標</sup> \
+A
+<sub>下標</sub>
+
 > blockquote\
 > 123
 >> 456
